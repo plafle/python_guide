@@ -8,7 +8,7 @@
 
 
 
-##### Class attribute
+## Class attribute
 
 ```python
 class Person:
@@ -34,7 +34,7 @@ class attribute则是属于整个class的，例如number_of_people就是这样�
 
 
 
-##### Static method
+## Static method
 
 ```python
 class Math:
@@ -68,7 +68,7 @@ run
 
 
 
-##### `__len__` method && `__bool__` method
+## `__len__` method && `__bool__` method
 
 ```python
 class rnge:
